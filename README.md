@@ -19,9 +19,10 @@ Contributors are encouraged to update their repository's own readme with key fea
 
 ## External Userspaces
 
-| URL                                       | Description                                                                                 | Keywords                     |
-|-------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------|
-| https://github.com/333fred/qmk_userspace  | 333fred's userspace: home of a few complex tap_dance routines and a few OLED customizations | `tap-dance` `oled`           |
-| https://github.com/daskygit/qmk_userspace | Dasky's userspace: home of some very interesting pointing development                       | `pointing` `quantum-painter` |
-| https://github.com/drashna/qmk_userspace  | Drashna's userspace: the home of all OLED customisations and Diablo keymaps                 | `oled` `rgb` `gaming`        |
+| URL                                        | Description                                                                                 | Keywords                      |
+|--------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------|
+| https://github.com/333fred/qmk_userspace   | 333fred's userspace: home of a few complex tap_dance routines and a few OLED customizations | `tap-dance` `oled`            |
+| https://github.com/daskygit/qmk_userspace  | Dasky's userspace: home of some very interesting pointing development                       | `pointing` `quantum-painter`  |
+| https://github.com/drashna/qmk_userspace   | Drashna's userspace: the home of all OLED customisations and Diablo keymaps                 | `oled` `rgb` `gaming`         |
+| https://github.com/ToyKeeper/qmk_userspace | ToyKeeper's userspace: lots of quality-of-life improvements and tips for 65% to 75% layouts | `rgb` `mouse` `warp` `readme` |
 
